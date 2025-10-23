@@ -1,0 +1,51 @@
+ID;Patient Description;Treatment;Outcome
+1;45-year-old patient presenting with a persistent dry cough for 3 weeks, no fever, non-smoker, history of mild asthma.;Inhaled corticosteroids and bronchodilator;Success
+2;32-year-old woman suffering from chronic migraines triggered by stress and lack of sleep.;Beta blockers and relaxation sessions;Partial
+3;60-year-old man with type 2 diabetes, infected wound on left foot for 10 days.;Oral antibiotics and local care;Success
+4;50-year-old patient with exertional chest pain, known hypercholesterolemia.;Statins and cardiac rehabilitation program;Success
+5;28-year-old woman presenting with acute urinary tract infection with burning during urination.;Antibiotics (fosfomycin) and abundant hydration;Success
+6;72-year-old man with chronic respiratory failure worsened by viral infection.;Oxygen therapy and antivirals;Partial
+7;40-year-old woman with moderate postpartum depression.;SSRI antidepressants and cognitive therapy;Success
+8;15-year-old adolescent with forearm fracture after a fall.;Cast immobilization and orthopedic follow-up;Success
+9;63-year-old obese patient with untreated sleep apnea.;Nighttime CPAP and weight loss program;Partial
+10;35-year-old pregnant woman (12 weeks gestation) with severe nausea.;Antiemetic treatment and fractional diet;Success
+11;48-year-old man with chronic low back pain post-accident.;Physiotherapy and non-steroidal anti-inflammatory drugs;Partial
+12;56-year-old hypertensive woman, sudden vertigo attack with visual disturbances.;Antihypertensives and neurological follow-up;Success
+13;30-year-old man with fever and rash after traveling to Africa.;Antimalarials and hydration;Success
+14;70-year-old patient with Parkinson’s disease, increased muscle rigidity.;Levodopa dose adjustment;Partial
+15;25-year-old woman with generalized anxiety and sleep disorders.;Behavioral therapy and anxiolytics;Success
+16;55-year-old man with chronic joint pain related to rheumatoid arthritis.;Methotrexate and physiotherapy;Partial
+17;38-year-old woman with severe seasonal allergy.;Antihistamines and desensitization;Success
+18;80-year-old patient suffering severe dehydration after gastroenteritis.;Intravenous rehydration;Success
+19;42-year-old man with recurrent gastric burning.;PPIs (proton pump inhibitors) and adapted diet;Success
+20;65-year-old woman with advanced osteoporosis.;Bisphosphonates and calcium supplementation;Success
+21;8-year-old child with acute otitis media.;Oral antibiotics and analgesics;Success
+22;37-year-old man with poorly controlled asthma.;Inhaled corticosteroids and bronchodilators;Partial
+23;50-year-old woman with prediabetes and overweight.;Low-calorie diet and physical activity;Success
+24;47-year-old patient with lumbar disc herniation.;Surgery and rehabilitation;Success
+25;29-year-old woman with severe acne.;Oral isotretinoin;Success
+26;60-year-old man with atrial fibrillation.;Anticoagulants and beta blockers;Success
+27;55-year-old patient with stage 3 chronic kidney disease.;Blood pressure control and low-salt diet;Partial
+28;45-year-old woman with irritable bowel syndrome.;Probiotics and adapted diet;Partial
+29;39-year-old man with severe influenza.;Antivirals and rest;Success
+30;66-year-old patient with bilateral cataracts.;Cataract surgery;Success
+31;33-year-old woman with right shoulder tendinitis.;Rest, ice, and physiotherapy;Success
+32;41-year-old man with chronic post-operative pain.;Analgesics and specialized follow-up;Partial
+33;74-year-old patient with chronic bronchitis.;Bronchodilators and respiratory physiotherapy;Partial
+34;27-year-old woman with recurrent cystitis.;Antibiotics and hydration;Success
+35;36-year-old man with ankle sprain.;Immobilization and anti-inflammatories;Success
+36;48-year-old woman with symptomatic menopause.;Hormone replacement therapy (HRT);Success
+37;52-year-old man with poorly controlled hypertension.;Dual antihypertensive therapy;Partial
+38;29-year-old patient with streptococcal infection.;Oral antibiotics;Success
+39;46-year-old woman with morbid obesity.;Bariatric surgery;Success
+40;65-year-old man with severe COPD.;Oxygen therapy and respiratory rehabilitation;Partial
+41;31-year-old woman with vaginal yeast infection.;Topical antifungals;Success
+42;44-year-old man with post-traumatic stress disorder.;Psychological therapy and anxiolytics;Partial
+43;59-year-old patient with acute pancreatitis.;Fasting, hydration, and analgesics;Success
+44;62-year-old woman with knee osteoarthritis.;Cortisone injections and physiotherapy;Partial
+45;34-year-old man with chronic insomnia.;Cognitive therapy and hypnotics;Partial
+46;53-year-old woman with iron deficiency anemia.;Oral iron supplements;Success
+47;78-year-old patient with heart failure.;Diuretics and ACE inhibitors;Partial
+48;40-year-old man with severe food allergy.;Antihistamines and strict diet;Success
+49;35-year-old woman with gallstones.;Laparoscopic cholecystectomy;Success
+50;61-year-old man with recent ischemic stroke.;Thrombolysis and rehabilitation;Success
