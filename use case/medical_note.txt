@@ -73,4 +73,4 @@ health care medical table data and description for post grace db
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
 health care analyses with
-https://www.kaggle.com/code/muhammadfurqan0/unlocking-healthcare-trends-data-analysis
+https://www.kaggle.com/code/muhamPmadfurqan0/unlocking-healthcare-trends-data-analysis

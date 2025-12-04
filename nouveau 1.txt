@@ -35,12 +35,6 @@ v01 VECTOR(5, INT8, SPARSE)
 INSERT INTO my_sparse_tab VALUES('[5,[2,4],[10,20]]');
 INSERT INTO my_sparse_tab VALUES('[[2,4],[10,20]]');
 
----- Insert dense vectors in to a SPARSE vector table
---- This command fails 
-INSERT INTO my_sparse_tab VALUES('[0, 10, 0, 20, 0]');
-
---- this command work 
-INSERT INTO my_sparse_tab VALUES (TO_VECTOR('[0,0,10,0,20]', 5, INT8, DENSE));
 
 --- You can also transform a SPARSE vector into a DENSE textual form if needed and vice versa:
 SELECT FROM_VECTOR(v01 RETURNING CLOB FORMAT DENSE)

@@ -24,6 +24,8 @@ desc new_patient;
 
 ------------
 -- Recherche des 5 cas les plus proches d’un vecteur donné
+select count(*) from patient_cases;
+
 SELECT
   np.description AS new_patient_description,
   p.description AS similar_patient_cases,
@@ -33,8 +35,8 @@ SELECT
 FROM patient_cases p
 CROSS JOIN new_patient np
 WHERE np.id = 1
-ORDER BY VECTOR_DISTANCE(p.vector, np.vector, COSINE) ASC
-FETCH FIRST 5 ROWS ONLY;
+ORDER BY VECTOR_DISTANCE(p.vector, np.vector, COSINE) ASC;
+--FETCH FIRST 5 ROWS ONLY;
 
 SELECT p.traitement_prescrit,
        p.outcome,
@@ -44,12 +46,7 @@ SELECT p.traitement_prescrit,
        VECTOR_DISTANCE(p.vector, np.vector, COSINE) AS Cos_score
 FROM patient_cases p
 CROSS JOIN new_patient np
-WHERE np.id = 1
+WHERE np.id = 5
 ORDER BY euclid_score ASC
 FETCH FIRST 5 ROWS ONLY;
-
-
-
-
-
 

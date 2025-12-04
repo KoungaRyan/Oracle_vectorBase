@@ -29,9 +29,10 @@ for row in rows:
 
 # Affichage des 5 plus similaires
 results.sort(reverse=True)
-print("🔎 Résultats :")
+print(" Résultats :")
 for score, phrase, label in results[:5]:
     print(f"- {phrase}  (score: {score:.4f})  → {label}")
+
 
 cursor.close()
 conn.close()

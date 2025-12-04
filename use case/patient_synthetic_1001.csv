@@ -1,0 +1,1001 @@
+ID;Patient Description;Treatment;Outcome
+1050;25-year-old patient presenting with seasonal allergies;Vitamin supplementation;Success
+1051;44-year-old patient presenting with mild renal discomfort;Beta blockers;Success
+1052;43-year-old patient presenting with recurring abdominal pain;Antibiotic injection;Success
+1053;39-year-old patient presenting with joint inflammation;Beta blockers;Failure
+1054;54-year-old patient presenting with seasonal allergies;Statins;Partial
+1055;90-year-old woman presenting with recurring abdominal pain;Antihistamines;Partial
+1056;54-year-old patient presenting with ocular irritation;Anti-inflammatory treatment;Partial
+1057;24-year-old patient presenting with muscle stiffness;Corticosteroid therapy;Failure
+1058;33-year-old man presenting with moderate asthma;Inhaled bronchodilator;Partial
+1059;20-year-old man presenting with moderate asthma;Hydration and monitoring;Success
+1060;86-year-old woman presenting with persistent cough and mild fever;Corticosteroid therapy;Failure
+1061;47-year-old man presenting with flu-like symptoms;Vitamin supplementation;Partial
+1062;55-year-old woman presenting with moderate asthma;Glucose regulation treatment;Success
+1063;69-year-old man presenting with skin rash of unknown origin;Physical therapy;Success
+1064;35-year-old man presenting with mild renal discomfort;Corticosteroid therapy;Failure
+1065;75-year-old man presenting with ocular irritation;Beta blockers;Partial
+1066;43-year-old man presenting with seasonal allergies;Glucose regulation treatment;Failure
+1067;24-year-old patient presenting with muscle stiffness;Corticosteroid therapy;Partial
+1068;80-year-old woman presenting with minor arrhythmia;Corticosteroid therapy;Partial
+1069;84-year-old man presenting with skin rash of unknown origin;Analgesics and rest;Failure
+1070;23-year-old woman presenting with moderate asthma;Oral antibiotics;Partial
+1071;71-year-old patient presenting with moderate asthma;Antibiotic injection;Failure
+1072;33-year-old man presenting with chronic sinus infection;Physical therapy;Failure
+1073;48-year-old patient presenting with acute bronchitis;Glucose regulation treatment;Success
+1074;36-year-old patient presenting with flu-like symptoms;Hydration and monitoring;Failure
+1075;37-year-old woman presenting with recurring abdominal pain;Glucose regulation treatment;Partial
+1076;33-year-old patient presenting with joint inflammation;Hydration and monitoring;Partial
+1077;22-year-old patient presenting with chronic sinus infection;Hydration and monitoring;Partial
+1078;42-year-old man presenting with moderate asthma;Anti-inflammatory treatment;Failure
+1079;80-year-old patient presenting with chronic hypertension;Anti-inflammatory treatment;Partial
+1080;79-year-old woman presenting with chronic hypertension;Antihistamines;Failure
+1081;40-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Failure
+1082;62-year-old patient presenting with chronic hypertension;Antihistamines;Failure
+1083;77-year-old man presenting with skin rash of unknown origin;Physical therapy;Partial
+1084;23-year-old man presenting with seasonal allergies;Oral antibiotics;Partial
+1085;20-year-old man presenting with chronic sinus infection;Antihistamines;Failure
+1086;48-year-old woman presenting with seasonal allergies;Antibiotic injection;Failure
+1087;27-year-old woman presenting with moderate asthma;Antibiotic injection;Failure
+1088;51-year-old man presenting with persistent cough and mild fever;Respiratory physiotherapy;Partial
+1089;44-year-old patient presenting with seasonal allergies;Glucose regulation treatment;Failure
+1090;26-year-old patient presenting with mild renal discomfort;Physical therapy;Partial
+1091;35-year-old patient presenting with chronic sinus infection;Anticoagulants;Success
+1092;90-year-old woman presenting with mild renal discomfort;Vitamin supplementation;Failure
+1093;39-year-old man presenting with joint inflammation;Respiratory physiotherapy;Success
+1094;65-year-old patient presenting with joint inflammation;Hydration and monitoring;Failure
+1095;54-year-old woman presenting with muscle stiffness;Anticoagulants;Success
+1096;53-year-old man presenting with ocular irritation;Respiratory physiotherapy;Failure
+1097;89-year-old man presenting with seasonal allergies;Glucose regulation treatment;Partial
+1098;70-year-old patient presenting with mild renal discomfort;Anti-inflammatory treatment;Success
+1099;86-year-old woman presenting with unexplained fatigue;Inhaled bronchodilator;Failure
+1100;26-year-old woman presenting with recurring abdominal pain;Vitamin supplementation;Partial
+1101;88-year-old woman presenting with flu-like symptoms;Anti-inflammatory treatment;Success
+1102;79-year-old patient presenting with chronic sinus infection;Corticosteroid therapy;Success
+1103;68-year-old man presenting with moderate asthma;Glucose regulation treatment;Failure
+1104;42-year-old woman presenting with acute bronchitis;Anticoagulants;Failure
+1105;67-year-old patient presenting with seasonal allergies;Hydration and monitoring;Success
+1106;81-year-old woman presenting with minor arrhythmia;Hydration and monitoring;Success
+1107;68-year-old woman presenting with minor arrhythmia;Inhaled bronchodilator;Failure
+1108;43-year-old woman presenting with moderate asthma;Analgesics and rest;Success
+1109;54-year-old woman presenting with ocular irritation;Oral antibiotics;Failure
+1110;26-year-old patient presenting with skin rash of unknown origin;Vitamin supplementation;Success
+1111;50-year-old woman presenting with chronic sinus infection;Antibiotic injection;Failure
+1112;78-year-old patient presenting with flu-like symptoms;Physical therapy;Partial
+1113;63-year-old patient presenting with recurring abdominal pain;Anticoagulants;Success
+1114;52-year-old patient presenting with muscle stiffness;Vitamin supplementation;Success
+1115;73-year-old patient presenting with mild renal discomfort;Glucose regulation treatment;Success
+1116;32-year-old man presenting with minor arrhythmia;Antibiotic injection;Success
+1117;88-year-old woman presenting with mild renal discomfort;Respiratory physiotherapy;Success
+1118;65-year-old patient presenting with flu-like symptoms;Beta blockers;Partial
+1119;38-year-old woman presenting with joint inflammation;Anticoagulants;Partial
+1120;34-year-old man presenting with minor arrhythmia;Antihistamines;Success
+1121;24-year-old man presenting with muscle stiffness;Corticosteroid therapy;Success
+1122;90-year-old woman presenting with chronic hypertension;Corticosteroid therapy;Failure
+1123;76-year-old woman presenting with ocular irritation;Physical therapy;Success
+1124;32-year-old patient presenting with unexplained fatigue;Anti-inflammatory treatment;Partial
+1125;39-year-old woman presenting with persistent cough and mild fever;Oral antibiotics;Success
+1126;61-year-old man presenting with persistent cough and mild fever;Anticoagulants;Failure
+1127;55-year-old woman presenting with ocular irritation;Antihistamines;Failure
+1128;21-year-old woman presenting with chronic hypertension;Vitamin supplementation;Failure
+1129;47-year-old man presenting with ocular irritation;Hydration and monitoring;Success
+1130;27-year-old man presenting with ocular irritation;Hydration and monitoring;Failure
+1131;26-year-old man presenting with joint inflammation;Analgesics and rest;Partial
+1132;34-year-old woman presenting with persistent cough and mild fever;Oral antibiotics;Failure
+1133;79-year-old woman presenting with persistent cough and mild fever;Beta blockers;Success
+1134;49-year-old patient presenting with moderate asthma;Hydration and monitoring;Failure
+1135;73-year-old woman presenting with acute bronchitis;Corticosteroid therapy;Success
+1136;32-year-old patient presenting with muscle stiffness;Inhaled bronchodilator;Success
+1137;72-year-old man presenting with minor arrhythmia;Beta blockers;Failure
+1138;84-year-old patient presenting with joint inflammation;Vitamin supplementation;Partial
+1139;31-year-old woman presenting with chronic sinus infection;Anti-inflammatory treatment;Failure
+1140;81-year-old woman presenting with muscle stiffness;Corticosteroid therapy;Failure
+1141;89-year-old patient presenting with acute bronchitis;Analgesics and rest;Failure
+1142;38-year-old man presenting with chronic sinus infection;Hydration and monitoring;Partial
+1143;70-year-old man presenting with joint inflammation;Vitamin supplementation;Success
+1144;90-year-old man presenting with recurring abdominal pain;Glucose regulation treatment;Partial
+1145;64-year-old woman presenting with chronic hypertension;Oral antibiotics;Partial
+1146;49-year-old woman presenting with minor arrhythmia;Physical therapy;Failure
+1147;78-year-old patient presenting with unexplained fatigue;Anticoagulants;Success
+1148;20-year-old woman presenting with minor arrhythmia;Vitamin supplementation;Success
+1149;24-year-old woman presenting with persistent cough and mild fever;Antibiotic injection;Failure
+1150;77-year-old man presenting with muscle stiffness;Anti-inflammatory treatment;Success
+1151;38-year-old patient presenting with ocular irritation;Corticosteroid therapy;Success
+1152;65-year-old patient presenting with unexplained fatigue;Inhaled bronchodilator;Success
+1153;90-year-old woman presenting with minor arrhythmia;Anti-inflammatory treatment;Success
+1154;31-year-old man presenting with mild renal discomfort;Glucose regulation treatment;Partial
+1155;42-year-old man presenting with skin rash of unknown origin;Glucose regulation treatment;Success
+1156;26-year-old patient presenting with ocular irritation;Anticoagulants;Failure
+1157;83-year-old man presenting with acute bronchitis;Anticoagulants;Partial
+1158;75-year-old man presenting with acute bronchitis;Oral antibiotics;Partial
+1159;41-year-old woman presenting with ocular irritation;Inhaled bronchodilator;Failure
+1160;44-year-old man presenting with recurring abdominal pain;Antihistamines;Partial
+1161;56-year-old patient presenting with flu-like symptoms;Antihistamines;Success
+1162;52-year-old patient presenting with persistent cough and mild fever;Antihistamines;Failure
+1163;45-year-old woman presenting with skin rash of unknown origin;Beta blockers;Partial
+1164;49-year-old man presenting with acute bronchitis;Corticosteroid therapy;Success
+1165;34-year-old man presenting with muscle stiffness;Anticoagulants;Partial
+1166;57-year-old man presenting with chronic sinus infection;Hydration and monitoring;Partial
+1167;76-year-old woman presenting with chronic hypertension;Inhaled bronchodilator;Partial
+1168;87-year-old man presenting with persistent cough and mild fever;Glucose regulation treatment;Success
+1169;82-year-old woman presenting with recurring abdominal pain;Anticoagulants;Success
+1170;35-year-old man presenting with acute bronchitis;Antibiotic injection;Failure
+1171;76-year-old patient presenting with flu-like symptoms;Antihistamines;Partial
+1172;41-year-old patient presenting with skin rash of unknown origin;Beta blockers;Partial
+1173;26-year-old man presenting with ocular irritation;Beta blockers;Success
+1174;36-year-old patient presenting with ocular irritation;Antihistamines;Success
+1175;48-year-old man presenting with seasonal allergies;Anticoagulants;Success
+1176;74-year-old woman presenting with chronic hypertension;Antibiotic injection;Success
+1177;49-year-old man presenting with recurring abdominal pain;Respiratory physiotherapy;Failure
+1178;72-year-old patient presenting with ocular irritation;Antihistamines;Partial
+1179;70-year-old man presenting with joint inflammation;Inhaled bronchodilator;Partial
+1180;76-year-old patient presenting with chronic sinus infection;Hydration and monitoring;Partial
+1181;48-year-old man presenting with joint inflammation;Physical therapy;Partial
+1182;57-year-old woman presenting with acute bronchitis;Physical therapy;Success
+1183;81-year-old man presenting with skin rash of unknown origin;Hydration and monitoring;Failure
+1184;75-year-old patient presenting with unexplained fatigue;Glucose regulation treatment;Failure
+1185;39-year-old patient presenting with chronic sinus infection;Corticosteroid therapy;Failure
+1186;76-year-old patient presenting with joint inflammation;Anti-inflammatory treatment;Success
+1187;42-year-old patient presenting with mild renal discomfort;Anticoagulants;Failure
+1188;61-year-old man presenting with chronic sinus infection;Antibiotic injection;Success
+1189;66-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Failure
+1190;85-year-old woman presenting with seasonal allergies;Respiratory physiotherapy;Success
+1191;58-year-old woman presenting with acute bronchitis;Vitamin supplementation;Failure
+1192;39-year-old patient presenting with mild renal discomfort;Antibiotic injection;Failure
+1193;34-year-old patient presenting with muscle stiffness;Beta blockers;Failure
+1194;31-year-old patient presenting with acute bronchitis;Antibiotic injection;Success
+1195;70-year-old man presenting with persistent cough and mild fever;Antibiotic injection;Failure
+1196;36-year-old patient presenting with minor arrhythmia;Respiratory physiotherapy;Failure
+1197;74-year-old patient presenting with muscle stiffness;Inhaled bronchodilator;Failure
+1198;41-year-old man presenting with persistent cough and mild fever;Statins;Failure
+1199;65-year-old patient presenting with moderate asthma;Hydration and monitoring;Partial
+1200;46-year-old woman presenting with unexplained fatigue;Hydration and monitoring;Failure
+1201;68-year-old patient presenting with skin rash of unknown origin;Statins;Failure
+1202;35-year-old woman presenting with persistent cough and mild fever;Glucose regulation treatment;Failure
+1203;86-year-old woman presenting with chronic sinus infection;Vitamin supplementation;Failure
+1204;87-year-old woman presenting with chronic sinus infection;Anti-inflammatory treatment;Partial
+1205;80-year-old patient presenting with unexplained fatigue;Beta blockers;Partial
+1206;57-year-old man presenting with seasonal allergies;Respiratory physiotherapy;Partial
+1207;23-year-old man presenting with moderate asthma;Physical therapy;Partial
+1208;66-year-old man presenting with unexplained fatigue;Analgesics and rest;Failure
+1209;89-year-old man presenting with persistent cough and mild fever;Oral antibiotics;Failure
+1210;75-year-old man presenting with joint inflammation;Beta blockers;Failure
+1211;57-year-old patient presenting with chronic sinus infection;Respiratory physiotherapy;Failure
+1212;36-year-old patient presenting with minor arrhythmia;Antihistamines;Partial
+1213;68-year-old woman presenting with chronic hypertension;Glucose regulation treatment;Partial
+1214;39-year-old woman presenting with muscle stiffness;Antibiotic injection;Failure
+1215;61-year-old woman presenting with acute bronchitis;Antihistamines;Success
+1216;30-year-old woman presenting with seasonal allergies;Beta blockers;Failure
+1217;40-year-old woman presenting with unexplained fatigue;Analgesics and rest;Failure
+1218;83-year-old woman presenting with unexplained fatigue;Glucose regulation treatment;Partial
+1219;42-year-old woman presenting with acute bronchitis;Statins;Failure
+1220;21-year-old man presenting with joint inflammation;Anticoagulants;Success
+1221;51-year-old man presenting with seasonal allergies;Antihistamines;Partial
+1222;35-year-old woman presenting with chronic sinus infection;Respiratory physiotherapy;Success
+1223;20-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Success
+1224;36-year-old patient presenting with acute bronchitis;Respiratory physiotherapy;Success
+1225;20-year-old patient presenting with mild renal discomfort;Anticoagulants;Partial
+1226;77-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Failure
+1227;42-year-old man presenting with unexplained fatigue;Anti-inflammatory treatment;Success
+1228;25-year-old man presenting with skin rash of unknown origin;Antihistamines;Success
+1229;35-year-old patient presenting with joint inflammation;Inhaled bronchodilator;Success
+1230;40-year-old man presenting with recurring abdominal pain;Physical therapy;Success
+1231;41-year-old woman presenting with recurring abdominal pain;Respiratory physiotherapy;Success
+1232;61-year-old man presenting with recurring abdominal pain;Oral antibiotics;Partial
+1233;27-year-old man presenting with seasonal allergies;Corticosteroid therapy;Success
+1234;61-year-old woman presenting with recurring abdominal pain;Respiratory physiotherapy;Failure
+1235;76-year-old man presenting with muscle stiffness;Vitamin supplementation;Failure
+1236;51-year-old woman presenting with ocular irritation;Corticosteroid therapy;Success
+1237;49-year-old patient presenting with persistent cough and mild fever;Anti-inflammatory treatment;Success
+1238;51-year-old woman presenting with recurring abdominal pain;Beta blockers;Success
+1239;31-year-old woman presenting with moderate asthma;Respiratory physiotherapy;Partial
+1240;24-year-old patient presenting with mild renal discomfort;Corticosteroid therapy;Failure
+1241;65-year-old woman presenting with seasonal allergies;Anticoagulants;Success
+1242;79-year-old patient presenting with chronic hypertension;Antihistamines;Failure
+1243;29-year-old woman presenting with recurring abdominal pain;Analgesics and rest;Success
+1244;83-year-old man presenting with chronic hypertension;Antihistamines;Partial
+1245;48-year-old patient presenting with mild renal discomfort;Antibiotic injection;Partial
+1246;60-year-old woman presenting with joint inflammation;Corticosteroid therapy;Partial
+1247;55-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Partial
+1248;57-year-old man presenting with acute bronchitis;Antihistamines;Failure
+1249;42-year-old woman presenting with seasonal allergies;Anti-inflammatory treatment;Failure
+1250;48-year-old man presenting with chronic sinus infection;Anticoagulants;Partial
+1251;27-year-old man presenting with mild renal discomfort;Glucose regulation treatment;Success
+1252;41-year-old patient presenting with recurring abdominal pain;Antibiotic injection;Success
+1253;33-year-old patient presenting with minor arrhythmia;Anti-inflammatory treatment;Failure
+1254;33-year-old patient presenting with skin rash of unknown origin;Antihistamines;Success
+1255;30-year-old man presenting with chronic hypertension;Statins;Partial
+1256;83-year-old woman presenting with minor arrhythmia;Respiratory physiotherapy;Success
+1257;29-year-old woman presenting with minor arrhythmia;Hydration and monitoring;Partial
+1258;70-year-old patient presenting with skin rash of unknown origin;Inhaled bronchodilator;Partial
+1259;66-year-old man presenting with skin rash of unknown origin;Statins;Failure
+1260;89-year-old patient presenting with acute bronchitis;Inhaled bronchodilator;Partial
+1261;70-year-old woman presenting with joint inflammation;Analgesics and rest;Partial
+1262;50-year-old woman presenting with mild renal discomfort;Anti-inflammatory treatment;Failure
+1263;44-year-old woman presenting with minor arrhythmia;Antibiotic injection;Partial
+1264;39-year-old man presenting with moderate asthma;Analgesics and rest;Failure
+1265;52-year-old patient presenting with persistent cough and mild fever;Corticosteroid therapy;Success
+1266;36-year-old woman presenting with recurring abdominal pain;Antihistamines;Partial
+1267;28-year-old man presenting with chronic hypertension;Oral antibiotics;Failure
+1268;31-year-old man presenting with recurring abdominal pain;Physical therapy;Failure
+1269;23-year-old patient presenting with recurring abdominal pain;Inhaled bronchodilator;Success
+1270;65-year-old man presenting with acute bronchitis;Oral antibiotics;Success
+1271;60-year-old patient presenting with joint inflammation;Beta blockers;Success
+1272;23-year-old man presenting with chronic sinus infection;Antibiotic injection;Failure
+1273;31-year-old woman presenting with minor arrhythmia;Antibiotic injection;Failure
+1274;90-year-old woman presenting with ocular irritation;Physical therapy;Partial
+1275;55-year-old man presenting with persistent cough and mild fever;Corticosteroid therapy;Failure
+1276;29-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Partial
+1277;74-year-old woman presenting with minor arrhythmia;Inhaled bronchodilator;Failure
+1278;43-year-old man presenting with minor arrhythmia;Glucose regulation treatment;Partial
+1279;44-year-old man presenting with ocular irritation;Respiratory physiotherapy;Success
+1280;49-year-old patient presenting with seasonal allergies;Inhaled bronchodilator;Partial
+1281;32-year-old woman presenting with muscle stiffness;Respiratory physiotherapy;Failure
+1282;61-year-old woman presenting with muscle stiffness;Statins;Success
+1283;28-year-old man presenting with recurring abdominal pain;Corticosteroid therapy;Success
+1284;36-year-old patient presenting with seasonal allergies;Physical therapy;Success
+1285;41-year-old man presenting with chronic hypertension;Antihistamines;Failure
+1286;40-year-old woman presenting with seasonal allergies;Anticoagulants;Failure
+1287;67-year-old woman presenting with seasonal allergies;Anti-inflammatory treatment;Failure
+1288;72-year-old man presenting with seasonal allergies;Antibiotic injection;Partial
+1289;31-year-old man presenting with persistent cough and mild fever;Antibiotic injection;Failure
+1290;69-year-old patient presenting with acute bronchitis;Analgesics and rest;Partial
+1291;47-year-old woman presenting with ocular irritation;Analgesics and rest;Failure
+1292;72-year-old man presenting with recurring abdominal pain;Inhaled bronchodilator;Success
+1293;46-year-old man presenting with mild renal discomfort;Respiratory physiotherapy;Success
+1294;82-year-old patient presenting with unexplained fatigue;Physical therapy;Success
+1295;73-year-old man presenting with persistent cough and mild fever;Statins;Partial
+1296;30-year-old man presenting with minor arrhythmia;Beta blockers;Failure
+1297;45-year-old woman presenting with joint inflammation;Respiratory physiotherapy;Failure
+1298;67-year-old patient presenting with recurring abdominal pain;Statins;Success
+1299;61-year-old patient presenting with recurring abdominal pain;Glucose regulation treatment;Success
+1300;69-year-old man presenting with persistent cough and mild fever;Anticoagulants;Success
+1301;76-year-old man presenting with chronic sinus infection;Antibiotic injection;Failure
+1302;72-year-old woman presenting with unexplained fatigue;Physical therapy;Failure
+1303;29-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Failure
+1304;68-year-old woman presenting with skin rash of unknown origin;Statins;Success
+1305;77-year-old patient presenting with ocular irritation;Anti-inflammatory treatment;Failure
+1306;85-year-old patient presenting with acute bronchitis;Statins;Failure
+1307;85-year-old woman presenting with persistent cough and mild fever;Vitamin supplementation;Failure
+1308;21-year-old man presenting with acute bronchitis;Physical therapy;Success
+1309;81-year-old woman presenting with persistent cough and mild fever;Anti-inflammatory treatment;Success
+1310;23-year-old man presenting with flu-like symptoms;Anti-inflammatory treatment;Partial
+1311;77-year-old patient presenting with flu-like symptoms;Analgesics and rest;Partial
+1312;52-year-old patient presenting with joint inflammation;Oral antibiotics;Failure
+1313;39-year-old patient presenting with persistent cough and mild fever;Antihistamines;Success
+1314;40-year-old woman presenting with ocular irritation;Inhaled bronchodilator;Partial
+1315;33-year-old man presenting with skin rash of unknown origin;Statins;Failure
+1316;45-year-old woman presenting with acute bronchitis;Beta blockers;Partial
+1317;40-year-old man presenting with mild renal discomfort;Anticoagulants;Success
+1318;45-year-old patient presenting with chronic hypertension;Corticosteroid therapy;Failure
+1319;54-year-old woman presenting with skin rash of unknown origin;Vitamin supplementation;Failure
+1320;62-year-old man presenting with skin rash of unknown origin;Beta blockers;Success
+1321;36-year-old man presenting with joint inflammation;Physical therapy;Success
+1322;68-year-old man presenting with chronic sinus infection;Respiratory physiotherapy;Failure
+1323;33-year-old man presenting with acute bronchitis;Beta blockers;Success
+1324;49-year-old man presenting with joint inflammation;Antibiotic injection;Success
+1325;70-year-old man presenting with mild renal discomfort;Beta blockers;Partial
+1326;77-year-old patient presenting with recurring abdominal pain;Anticoagulants;Partial
+1327;25-year-old man presenting with recurring abdominal pain;Antibiotic injection;Failure
+1328;51-year-old patient presenting with flu-like symptoms;Statins;Partial
+1329;75-year-old patient presenting with seasonal allergies;Analgesics and rest;Failure
+1330;72-year-old man presenting with mild renal discomfort;Glucose regulation treatment;Success
+1331;30-year-old patient presenting with unexplained fatigue;Glucose regulation treatment;Failure
+1332;83-year-old patient presenting with chronic sinus infection;Oral antibiotics;Success
+1333;70-year-old woman presenting with chronic sinus infection;Vitamin supplementation;Partial
+1334;21-year-old woman presenting with minor arrhythmia;Anti-inflammatory treatment;Failure
+1335;63-year-old man presenting with seasonal allergies;Respiratory physiotherapy;Partial
+1336;84-year-old woman presenting with muscle stiffness;Hydration and monitoring;Partial
+1337;61-year-old man presenting with mild renal discomfort;Anti-inflammatory treatment;Partial
+1338;76-year-old woman presenting with flu-like symptoms;Beta blockers;Failure
+1339;77-year-old patient presenting with minor arrhythmia;Physical therapy;Success
+1340;82-year-old woman presenting with mild renal discomfort;Corticosteroid therapy;Success
+1341;34-year-old patient presenting with acute bronchitis;Vitamin supplementation;Failure
+1342;51-year-old woman presenting with ocular irritation;Analgesics and rest;Success
+1343;44-year-old man presenting with chronic hypertension;Antihistamines;Partial
+1344;69-year-old man presenting with mild renal discomfort;Analgesics and rest;Success
+1345;82-year-old patient presenting with mild renal discomfort;Physical therapy;Failure
+1346;35-year-old man presenting with joint inflammation;Inhaled bronchodilator;Success
+1347;35-year-old man presenting with acute bronchitis;Beta blockers;Success
+1348;83-year-old patient presenting with mild renal discomfort;Inhaled bronchodilator;Failure
+1349;22-year-old woman presenting with acute bronchitis;Analgesics and rest;Failure
+1350;55-year-old patient presenting with seasonal allergies;Respiratory physiotherapy;Partial
+1351;80-year-old patient presenting with skin rash of unknown origin;Inhaled bronchodilator;Partial
+1352;23-year-old woman presenting with seasonal allergies;Antibiotic injection;Failure
+1353;70-year-old man presenting with mild renal discomfort;Respiratory physiotherapy;Failure
+1354;52-year-old woman presenting with persistent cough and mild fever;Antibiotic injection;Success
+1355;21-year-old woman presenting with mild renal discomfort;Corticosteroid therapy;Partial
+1356;84-year-old patient presenting with muscle stiffness;Hydration and monitoring;Partial
+1357;52-year-old patient presenting with moderate asthma;Antibiotic injection;Success
+1358;64-year-old man presenting with seasonal allergies;Physical therapy;Partial
+1359;55-year-old man presenting with joint inflammation;Statins;Partial
+1360;87-year-old man presenting with skin rash of unknown origin;Corticosteroid therapy;Partial
+1361;45-year-old woman presenting with minor arrhythmia;Analgesics and rest;Partial
+1362;30-year-old woman presenting with unexplained fatigue;Antibiotic injection;Failure
+1363;22-year-old man presenting with seasonal allergies;Anti-inflammatory treatment;Success
+1364;56-year-old man presenting with unexplained fatigue;Anticoagulants;Failure
+1365;33-year-old patient presenting with chronic sinus infection;Hydration and monitoring;Failure
+1366;60-year-old man presenting with chronic sinus infection;Analgesics and rest;Success
+1367;40-year-old man presenting with unexplained fatigue;Respiratory physiotherapy;Partial
+1368;71-year-old woman presenting with mild renal discomfort;Hydration and monitoring;Failure
+1369;81-year-old man presenting with moderate asthma;Oral antibiotics;Failure
+1370;42-year-old woman presenting with joint inflammation;Beta blockers;Partial
+1371;32-year-old woman presenting with chronic sinus infection;Oral antibiotics;Partial
+1372;65-year-old patient presenting with recurring abdominal pain;Anti-inflammatory treatment;Failure
+1373;57-year-old man presenting with minor arrhythmia;Oral antibiotics;Failure
+1374;67-year-old man presenting with acute bronchitis;Anticoagulants;Failure
+1375;59-year-old patient presenting with unexplained fatigue;Glucose regulation treatment;Success
+1376;82-year-old woman presenting with persistent cough and mild fever;Anti-inflammatory treatment;Failure
+1377;81-year-old woman presenting with chronic sinus infection;Physical therapy;Partial
+1378;73-year-old woman presenting with unexplained fatigue;Inhaled bronchodilator;Partial
+1379;40-year-old patient presenting with moderate asthma;Anticoagulants;Success
+1380;65-year-old man presenting with joint inflammation;Hydration and monitoring;Success
+1381;45-year-old man presenting with minor arrhythmia;Oral antibiotics;Failure
+1382;71-year-old woman presenting with skin rash of unknown origin;Hydration and monitoring;Success
+1383;77-year-old patient presenting with moderate asthma;Respiratory physiotherapy;Partial
+1384;60-year-old woman presenting with moderate asthma;Anti-inflammatory treatment;Success
+1385;51-year-old patient presenting with persistent cough and mild fever;Anti-inflammatory treatment;Failure
+1386;89-year-old woman presenting with ocular irritation;Antihistamines;Failure
+1387;38-year-old woman presenting with mild renal discomfort;Glucose regulation treatment;Partial
+1388;46-year-old man presenting with seasonal allergies;Antihistamines;Success
+1389;66-year-old woman presenting with recurring abdominal pain;Antibiotic injection;Partial
+1390;46-year-old patient presenting with mild renal discomfort;Glucose regulation treatment;Partial
+1391;49-year-old patient presenting with moderate asthma;Anti-inflammatory treatment;Success
+1392;34-year-old patient presenting with chronic hypertension;Glucose regulation treatment;Partial
+1393;57-year-old woman presenting with minor arrhythmia;Physical therapy;Success
+1394;82-year-old man presenting with unexplained fatigue;Vitamin supplementation;Partial
+1395;46-year-old woman presenting with moderate asthma;Beta blockers;Partial
+1396;73-year-old woman presenting with minor arrhythmia;Physical therapy;Partial
+1397;76-year-old woman presenting with minor arrhythmia;Antibiotic injection;Failure
+1398;68-year-old man presenting with flu-like symptoms;Beta blockers;Partial
+1399;82-year-old woman presenting with unexplained fatigue;Respiratory physiotherapy;Success
+1400;28-year-old woman presenting with mild renal discomfort;Vitamin supplementation;Partial
+1401;72-year-old woman presenting with recurring abdominal pain;Corticosteroid therapy;Success
+1402;52-year-old patient presenting with chronic hypertension;Anti-inflammatory treatment;Failure
+1403;60-year-old man presenting with acute bronchitis;Beta blockers;Failure
+1404;20-year-old woman presenting with chronic hypertension;Antibiotic injection;Partial
+1405;54-year-old man presenting with joint inflammation;Oral antibiotics;Partial
+1406;49-year-old woman presenting with seasonal allergies;Physical therapy;Partial
+1407;68-year-old man presenting with persistent cough and mild fever;Glucose regulation treatment;Success
+1408;89-year-old patient presenting with unexplained fatigue;Anticoagulants;Partial
+1409;80-year-old man presenting with recurring abdominal pain;Glucose regulation treatment;Success
+1410;46-year-old man presenting with muscle stiffness;Beta blockers;Failure
+1411;87-year-old man presenting with minor arrhythmia;Antihistamines;Failure
+1412;42-year-old man presenting with joint inflammation;Corticosteroid therapy;Success
+1413;40-year-old patient presenting with moderate asthma;Analgesics and rest;Partial
+1414;25-year-old woman presenting with muscle stiffness;Analgesics and rest;Partial
+1415;82-year-old man presenting with recurring abdominal pain;Hydration and monitoring;Success
+1416;68-year-old patient presenting with persistent cough and mild fever;Anti-inflammatory treatment;Success
+1417;77-year-old man presenting with chronic sinus infection;Antibiotic injection;Success
+1418;44-year-old man presenting with minor arrhythmia;Corticosteroid therapy;Partial
+1419;40-year-old woman presenting with moderate asthma;Respiratory physiotherapy;Failure
+1420;26-year-old man presenting with mild renal discomfort;Anti-inflammatory treatment;Partial
+1421;21-year-old woman presenting with seasonal allergies;Vitamin supplementation;Success
+1422;48-year-old woman presenting with flu-like symptoms;Anti-inflammatory treatment;Partial
+1423;33-year-old patient presenting with mild renal discomfort;Physical therapy;Failure
+1424;90-year-old patient presenting with minor arrhythmia;Antihistamines;Success
+1425;26-year-old patient presenting with recurring abdominal pain;Corticosteroid therapy;Failure
+1426;54-year-old woman presenting with acute bronchitis;Inhaled bronchodilator;Failure
+1427;68-year-old patient presenting with seasonal allergies;Anti-inflammatory treatment;Partial
+1428;38-year-old patient presenting with muscle stiffness;Vitamin supplementation;Success
+1429;23-year-old man presenting with muscle stiffness;Beta blockers;Success
+1430;68-year-old woman presenting with minor arrhythmia;Respiratory physiotherapy;Success
+1431;85-year-old patient presenting with seasonal allergies;Anticoagulants;Success
+1432;45-year-old man presenting with ocular irritation;Antihistamines;Success
+1433;61-year-old patient presenting with muscle stiffness;Antihistamines;Success
+1434;50-year-old woman presenting with mild renal discomfort;Hydration and monitoring;Failure
+1435;33-year-old patient presenting with chronic hypertension;Hydration and monitoring;Partial
+1436;46-year-old patient presenting with muscle stiffness;Anticoagulants;Failure
+1437;54-year-old patient presenting with persistent cough and mild fever;Physical therapy;Failure
+1438;28-year-old woman presenting with chronic sinus infection;Physical therapy;Partial
+1439;49-year-old patient presenting with joint inflammation;Antibiotic injection;Partial
+1440;86-year-old man presenting with acute bronchitis;Anticoagulants;Success
+1441;48-year-old man presenting with flu-like symptoms;Analgesics and rest;Failure
+1442;36-year-old man presenting with moderate asthma;Anti-inflammatory treatment;Success
+1443;72-year-old woman presenting with acute bronchitis;Anti-inflammatory treatment;Success
+1444;73-year-old man presenting with flu-like symptoms;Antibiotic injection;Failure
+1445;45-year-old woman presenting with chronic sinus infection;Oral antibiotics;Partial
+1446;51-year-old man presenting with muscle stiffness;Anticoagulants;Failure
+1447;25-year-old man presenting with seasonal allergies;Corticosteroid therapy;Failure
+1448;76-year-old man presenting with ocular irritation;Beta blockers;Failure
+1449;31-year-old woman presenting with acute bronchitis;Inhaled bronchodilator;Partial
+1450;80-year-old woman presenting with flu-like symptoms;Analgesics and rest;Success
+1451;76-year-old woman presenting with chronic sinus infection;Anti-inflammatory treatment;Partial
+1452;33-year-old woman presenting with seasonal allergies;Glucose regulation treatment;Success
+1453;31-year-old woman presenting with mild renal discomfort;Hydration and monitoring;Partial
+1454;65-year-old man presenting with muscle stiffness;Oral antibiotics;Partial
+1455;70-year-old man presenting with moderate asthma;Statins;Partial
+1456;71-year-old man presenting with ocular irritation;Oral antibiotics;Partial
+1457;89-year-old woman presenting with minor arrhythmia;Statins;Success
+1458;27-year-old patient presenting with minor arrhythmia;Hydration and monitoring;Partial
+1459;51-year-old man presenting with unexplained fatigue;Anticoagulants;Failure
+1460;32-year-old patient presenting with chronic hypertension;Glucose regulation treatment;Success
+1461;41-year-old patient presenting with flu-like symptoms;Antihistamines;Failure
+1462;23-year-old woman presenting with unexplained fatigue;Antibiotic injection;Partial
+1463;75-year-old man presenting with joint inflammation;Anti-inflammatory treatment;Partial
+1464;63-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Failure
+1465;79-year-old patient presenting with muscle stiffness;Oral antibiotics;Success
+1466;39-year-old patient presenting with moderate asthma;Corticosteroid therapy;Partial
+1467;58-year-old patient presenting with minor arrhythmia;Antibiotic injection;Failure
+1468;78-year-old woman presenting with moderate asthma;Antibiotic injection;Failure
+1469;42-year-old patient presenting with ocular irritation;Anticoagulants;Success
+1470;34-year-old patient presenting with moderate asthma;Beta blockers;Success
+1471;78-year-old man presenting with ocular irritation;Corticosteroid therapy;Success
+1472;79-year-old patient presenting with flu-like symptoms;Beta blockers;Partial
+1473;55-year-old man presenting with joint inflammation;Respiratory physiotherapy;Success
+1474;45-year-old man presenting with ocular irritation;Oral antibiotics;Failure
+1475;47-year-old patient presenting with ocular irritation;Hydration and monitoring;Success
+1476;28-year-old man presenting with seasonal allergies;Glucose regulation treatment;Partial
+1477;25-year-old man presenting with skin rash of unknown origin;Physical therapy;Failure
+1478;73-year-old patient presenting with minor arrhythmia;Beta blockers;Failure
+1479;30-year-old woman presenting with moderate asthma;Vitamin supplementation;Failure
+1480;57-year-old man presenting with joint inflammation;Corticosteroid therapy;Partial
+1481;43-year-old woman presenting with skin rash of unknown origin;Antibiotic injection;Partial
+1482;23-year-old woman presenting with skin rash of unknown origin;Beta blockers;Failure
+1483;37-year-old patient presenting with mild renal discomfort;Antibiotic injection;Partial
+1484;55-year-old woman presenting with flu-like symptoms;Anti-inflammatory treatment;Success
+1485;79-year-old man presenting with ocular irritation;Anti-inflammatory treatment;Failure
+1486;45-year-old patient presenting with chronic sinus infection;Beta blockers;Success
+1487;82-year-old patient presenting with chronic hypertension;Corticosteroid therapy;Partial
+1488;25-year-old patient presenting with moderate asthma;Beta blockers;Failure
+1489;65-year-old man presenting with persistent cough and mild fever;Anti-inflammatory treatment;Success
+1490;69-year-old patient presenting with ocular irritation;Vitamin supplementation;Success
+1491;49-year-old man presenting with unexplained fatigue;Antihistamines;Failure
+1492;81-year-old woman presenting with persistent cough and mild fever;Corticosteroid therapy;Success
+1493;68-year-old woman presenting with chronic hypertension;Beta blockers;Partial
+1494;29-year-old woman presenting with mild renal discomfort;Inhaled bronchodilator;Success
+1495;34-year-old man presenting with moderate asthma;Corticosteroid therapy;Success
+1496;86-year-old patient presenting with recurring abdominal pain;Analgesics and rest;Partial
+1497;84-year-old patient presenting with ocular irritation;Corticosteroid therapy;Failure
+1498;30-year-old woman presenting with flu-like symptoms;Hydration and monitoring;Partial
+1499;26-year-old woman presenting with chronic hypertension;Antibiotic injection;Success
+1500;84-year-old man presenting with mild renal discomfort;Antihistamines;Failure
+1501;66-year-old patient presenting with chronic sinus infection;Antibiotic injection;Success
+1502;71-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Success
+1503;79-year-old man presenting with flu-like symptoms;Vitamin supplementation;Partial
+1504;25-year-old woman presenting with persistent cough and mild fever;Antibiotic injection;Success
+1505;64-year-old man presenting with flu-like symptoms;Vitamin supplementation;Success
+1506;27-year-old patient presenting with recurring abdominal pain;Hydration and monitoring;Partial
+1507;32-year-old man presenting with ocular irritation;Antibiotic injection;Failure
+1508;76-year-old man presenting with chronic sinus infection;Antihistamines;Failure
+1509;74-year-old patient presenting with skin rash of unknown origin;Physical therapy;Partial
+1510;48-year-old woman presenting with recurring abdominal pain;Hydration and monitoring;Failure
+1511;27-year-old man presenting with unexplained fatigue;Analgesics and rest;Success
+1512;90-year-old man presenting with unexplained fatigue;Antibiotic injection;Failure
+1513;39-year-old patient presenting with skin rash of unknown origin;Anti-inflammatory treatment;Failure
+1514;41-year-old man presenting with acute bronchitis;Beta blockers;Partial
+1515;56-year-old patient presenting with mild renal discomfort;Physical therapy;Success
+1516;26-year-old patient presenting with joint inflammation;Analgesics and rest;Success
+1517;81-year-old woman presenting with mild renal discomfort;Respiratory physiotherapy;Success
+1518;29-year-old man presenting with moderate asthma;Statins;Failure
+1519;60-year-old man presenting with recurring abdominal pain;Glucose regulation treatment;Success
+1520;53-year-old man presenting with mild renal discomfort;Anticoagulants;Failure
+1521;25-year-old man presenting with recurring abdominal pain;Hydration and monitoring;Success
+1522;85-year-old man presenting with chronic sinus infection;Respiratory physiotherapy;Failure
+1523;36-year-old man presenting with flu-like symptoms;Beta blockers;Partial
+1524;22-year-old man presenting with muscle stiffness;Antihistamines;Partial
+1525;79-year-old man presenting with acute bronchitis;Antibiotic injection;Failure
+1526;66-year-old patient presenting with chronic sinus infection;Analgesics and rest;Partial
+1527;31-year-old man presenting with minor arrhythmia;Hydration and monitoring;Partial
+1528;71-year-old patient presenting with chronic sinus infection;Antihistamines;Success
+1529;64-year-old patient presenting with chronic sinus infection;Anti-inflammatory treatment;Failure
+1530;35-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Success
+1531;57-year-old woman presenting with flu-like symptoms;Analgesics and rest;Success
+1532;56-year-old man presenting with flu-like symptoms;Anticoagulants;Failure
+1533;50-year-old woman presenting with seasonal allergies;Oral antibiotics;Success
+1534;75-year-old woman presenting with unexplained fatigue;Physical therapy;Failure
+1535;71-year-old man presenting with seasonal allergies;Respiratory physiotherapy;Partial
+1536;24-year-old man presenting with minor arrhythmia;Vitamin supplementation;Success
+1537;78-year-old woman presenting with chronic sinus infection;Antihistamines;Success
+1538;71-year-old woman presenting with unexplained fatigue;Analgesics and rest;Failure
+1539;77-year-old woman presenting with persistent cough and mild fever;Vitamin supplementation;Success
+1540;59-year-old woman presenting with moderate asthma;Vitamin supplementation;Failure
+1541;39-year-old man presenting with moderate asthma;Vitamin supplementation;Success
+1542;75-year-old woman presenting with muscle stiffness;Anti-inflammatory treatment;Partial
+1543;69-year-old woman presenting with chronic sinus infection;Statins;Success
+1544;78-year-old woman presenting with recurring abdominal pain;Glucose regulation treatment;Partial
+1545;54-year-old man presenting with persistent cough and mild fever;Analgesics and rest;Failure
+1546;43-year-old man presenting with muscle stiffness;Analgesics and rest;Success
+1547;59-year-old man presenting with seasonal allergies;Antihistamines;Failure
+1548;45-year-old woman presenting with minor arrhythmia;Glucose regulation treatment;Success
+1549;38-year-old man presenting with mild renal discomfort;Anticoagulants;Failure
+1550;56-year-old man presenting with seasonal allergies;Anticoagulants;Failure
+1551;68-year-old patient presenting with acute bronchitis;Antihistamines;Success
+1552;45-year-old man presenting with muscle stiffness;Hydration and monitoring;Failure
+1553;69-year-old patient presenting with skin rash of unknown origin;Glucose regulation treatment;Failure
+1554;35-year-old patient presenting with persistent cough and mild fever;Statins;Success
+1555;80-year-old patient presenting with ocular irritation;Anticoagulants;Success
+1556;89-year-old woman presenting with chronic sinus infection;Hydration and monitoring;Partial
+1557;43-year-old woman presenting with joint inflammation;Corticosteroid therapy;Partial
+1558;25-year-old man presenting with skin rash of unknown origin;Glucose regulation treatment;Partial
+1559;83-year-old patient presenting with recurring abdominal pain;Beta blockers;Partial
+1560;51-year-old man presenting with unexplained fatigue;Antihistamines;Failure
+1561;56-year-old man presenting with moderate asthma;Hydration and monitoring;Partial
+1562;60-year-old man presenting with chronic hypertension;Antibiotic injection;Partial
+1563;50-year-old patient presenting with moderate asthma;Corticosteroid therapy;Failure
+1564;84-year-old woman presenting with minor arrhythmia;Analgesics and rest;Partial
+1565;27-year-old man presenting with seasonal allergies;Statins;Failure
+1566;69-year-old man presenting with recurring abdominal pain;Beta blockers;Failure
+1567;88-year-old woman presenting with mild renal discomfort;Physical therapy;Partial
+1568;65-year-old man presenting with persistent cough and mild fever;Statins;Partial
+1569;59-year-old woman presenting with joint inflammation;Beta blockers;Failure
+1570;24-year-old woman presenting with flu-like symptoms;Inhaled bronchodilator;Partial
+1571;61-year-old man presenting with chronic sinus infection;Antibiotic injection;Success
+1572;84-year-old woman presenting with flu-like symptoms;Hydration and monitoring;Success
+1573;58-year-old patient presenting with ocular irritation;Glucose regulation treatment;Partial
+1574;33-year-old patient presenting with flu-like symptoms;Anticoagulants;Success
+1575;32-year-old woman presenting with ocular irritation;Hydration and monitoring;Failure
+1576;66-year-old man presenting with recurring abdominal pain;Anti-inflammatory treatment;Partial
+1577;60-year-old patient presenting with chronic hypertension;Oral antibiotics;Failure
+1578;50-year-old patient presenting with joint inflammation;Statins;Success
+1579;28-year-old man presenting with mild renal discomfort;Anti-inflammatory treatment;Partial
+1580;42-year-old patient presenting with persistent cough and mild fever;Glucose regulation treatment;Success
+1581;70-year-old woman presenting with ocular irritation;Vitamin supplementation;Success
+1582;25-year-old man presenting with persistent cough and mild fever;Beta blockers;Success
+1583;52-year-old man presenting with recurring abdominal pain;Glucose regulation treatment;Failure
+1584;30-year-old man presenting with flu-like symptoms;Analgesics and rest;Partial
+1585;79-year-old man presenting with muscle stiffness;Analgesics and rest;Partial
+1586;42-year-old patient presenting with chronic hypertension;Antihistamines;Partial
+1587;77-year-old man presenting with mild renal discomfort;Anticoagulants;Success
+1588;56-year-old woman presenting with flu-like symptoms;Glucose regulation treatment;Success
+1589;87-year-old man presenting with ocular irritation;Anticoagulants;Failure
+1590;39-year-old man presenting with minor arrhythmia;Antibiotic injection;Partial
+1591;72-year-old patient presenting with unexplained fatigue;Statins;Success
+1592;48-year-old man presenting with persistent cough and mild fever;Hydration and monitoring;Failure
+1593;32-year-old patient presenting with muscle stiffness;Beta blockers;Partial
+1594;88-year-old man presenting with unexplained fatigue;Analgesics and rest;Failure
+1595;58-year-old patient presenting with skin rash of unknown origin;Antihistamines;Partial
+1596;80-year-old man presenting with moderate asthma;Physical therapy;Failure
+1597;57-year-old man presenting with acute bronchitis;Physical therapy;Success
+1598;38-year-old woman presenting with chronic hypertension;Inhaled bronchodilator;Partial
+1599;30-year-old man presenting with muscle stiffness;Analgesics and rest;Success
+1600;54-year-old woman presenting with mild renal discomfort;Antihistamines;Partial
+1601;44-year-old patient presenting with unexplained fatigue;Oral antibiotics;Partial
+1602;33-year-old patient presenting with mild renal discomfort;Glucose regulation treatment;Partial
+1603;41-year-old man presenting with moderate asthma;Glucose regulation treatment;Partial
+1604;54-year-old man presenting with chronic sinus infection;Corticosteroid therapy;Partial
+1605;34-year-old man presenting with flu-like symptoms;Respiratory physiotherapy;Success
+1606;24-year-old woman presenting with unexplained fatigue;Corticosteroid therapy;Success
+1607;39-year-old man presenting with flu-like symptoms;Glucose regulation treatment;Failure
+1608;22-year-old man presenting with chronic sinus infection;Inhaled bronchodilator;Success
+1609;58-year-old woman presenting with muscle stiffness;Respiratory physiotherapy;Success
+1610;61-year-old patient presenting with unexplained fatigue;Anticoagulants;Failure
+1611;46-year-old patient presenting with skin rash of unknown origin;Respiratory physiotherapy;Partial
+1612;81-year-old woman presenting with minor arrhythmia;Anti-inflammatory treatment;Partial
+1613;23-year-old woman presenting with mild renal discomfort;Vitamin supplementation;Partial
+1614;36-year-old patient presenting with moderate asthma;Anti-inflammatory treatment;Failure
+1615;25-year-old patient presenting with ocular irritation;Hydration and monitoring;Failure
+1616;81-year-old woman presenting with moderate asthma;Oral antibiotics;Success
+1617;32-year-old man presenting with chronic hypertension;Respiratory physiotherapy;Failure
+1618;34-year-old man presenting with minor arrhythmia;Beta blockers;Failure
+1619;27-year-old patient presenting with skin rash of unknown origin;Inhaled bronchodilator;Success
+1620;62-year-old man presenting with chronic hypertension;Statins;Success
+1621;47-year-old man presenting with muscle stiffness;Oral antibiotics;Partial
+1622;63-year-old patient presenting with chronic sinus infection;Physical therapy;Failure
+1623;46-year-old woman presenting with acute bronchitis;Corticosteroid therapy;Partial
+1624;72-year-old woman presenting with mild renal discomfort;Antihistamines;Partial
+1625;78-year-old woman presenting with joint inflammation;Hydration and monitoring;Success
+1626;21-year-old man presenting with seasonal allergies;Beta blockers;Partial
+1627;22-year-old man presenting with flu-like symptoms;Anticoagulants;Success
+1628;62-year-old man presenting with unexplained fatigue;Vitamin supplementation;Failure
+1629;77-year-old man presenting with acute bronchitis;Antihistamines;Failure
+1630;36-year-old man presenting with moderate asthma;Analgesics and rest;Failure
+1631;53-year-old woman presenting with minor arrhythmia;Antibiotic injection;Partial
+1632;44-year-old patient presenting with acute bronchitis;Anticoagulants;Failure
+1633;83-year-old woman presenting with recurring abdominal pain;Antibiotic injection;Partial
+1634;75-year-old patient presenting with minor arrhythmia;Beta blockers;Failure
+1635;43-year-old woman presenting with ocular irritation;Respiratory physiotherapy;Failure
+1636;38-year-old woman presenting with skin rash of unknown origin;Oral antibiotics;Failure
+1637;44-year-old man presenting with chronic sinus infection;Analgesics and rest;Failure
+1638;72-year-old patient presenting with muscle stiffness;Inhaled bronchodilator;Failure
+1639;28-year-old woman presenting with unexplained fatigue;Inhaled bronchodilator;Failure
+1640;68-year-old patient presenting with chronic sinus infection;Glucose regulation treatment;Success
+1641;32-year-old woman presenting with muscle stiffness;Corticosteroid therapy;Success
+1642;54-year-old woman presenting with persistent cough and mild fever;Physical therapy;Failure
+1643;42-year-old patient presenting with unexplained fatigue;Respiratory physiotherapy;Partial
+1644;33-year-old patient presenting with acute bronchitis;Statins;Partial
+1645;53-year-old patient presenting with seasonal allergies;Hydration and monitoring;Failure
+1646;26-year-old patient presenting with skin rash of unknown origin;Beta blockers;Failure
+1647;75-year-old woman presenting with seasonal allergies;Vitamin supplementation;Failure
+1648;80-year-old woman presenting with mild renal discomfort;Respiratory physiotherapy;Success
+1649;35-year-old man presenting with acute bronchitis;Oral antibiotics;Partial
+1650;79-year-old woman presenting with unexplained fatigue;Analgesics and rest;Failure
+1651;24-year-old woman presenting with minor arrhythmia;Vitamin supplementation;Partial
+1652;82-year-old woman presenting with minor arrhythmia;Inhaled bronchodilator;Partial
+1653;67-year-old patient presenting with persistent cough and mild fever;Respiratory physiotherapy;Partial
+1654;81-year-old woman presenting with chronic hypertension;Anticoagulants;Success
+1655;72-year-old man presenting with unexplained fatigue;Statins;Failure
+1656;66-year-old woman presenting with persistent cough and mild fever;Vitamin supplementation;Success
+1657;55-year-old woman presenting with chronic sinus infection;Statins;Partial
+1658;50-year-old woman presenting with flu-like symptoms;Glucose regulation treatment;Partial
+1659;76-year-old woman presenting with persistent cough and mild fever;Corticosteroid therapy;Partial
+1660;48-year-old woman presenting with skin rash of unknown origin;Respiratory physiotherapy;Failure
+1661;78-year-old man presenting with moderate asthma;Corticosteroid therapy;Partial
+1662;53-year-old man presenting with acute bronchitis;Anticoagulants;Partial
+1663;79-year-old patient presenting with unexplained fatigue;Analgesics and rest;Partial
+1664;56-year-old man presenting with minor arrhythmia;Anticoagulants;Partial
+1665;55-year-old woman presenting with skin rash of unknown origin;Antihistamines;Partial
+1666;75-year-old patient presenting with chronic hypertension;Anti-inflammatory treatment;Success
+1667;41-year-old woman presenting with acute bronchitis;Corticosteroid therapy;Partial
+1668;31-year-old patient presenting with persistent cough and mild fever;Oral antibiotics;Partial
+1669;45-year-old woman presenting with moderate asthma;Statins;Success
+1670;36-year-old patient presenting with acute bronchitis;Vitamin supplementation;Partial
+1671;87-year-old man presenting with chronic sinus infection;Inhaled bronchodilator;Partial
+1672;70-year-old man presenting with acute bronchitis;Anti-inflammatory treatment;Partial
+1673;51-year-old man presenting with acute bronchitis;Antihistamines;Success
+1674;77-year-old woman presenting with chronic hypertension;Physical therapy;Failure
+1675;85-year-old man presenting with acute bronchitis;Respiratory physiotherapy;Success
+1676;34-year-old woman presenting with ocular irritation;Vitamin supplementation;Failure
+1677;76-year-old man presenting with recurring abdominal pain;Analgesics and rest;Partial
+1678;86-year-old woman presenting with mild renal discomfort;Anticoagulants;Partial
+1679;45-year-old man presenting with ocular irritation;Antibiotic injection;Success
+1680;48-year-old patient presenting with moderate asthma;Physical therapy;Success
+1681;79-year-old man presenting with chronic hypertension;Anti-inflammatory treatment;Success
+1682;38-year-old woman presenting with chronic sinus infection;Corticosteroid therapy;Failure
+1683;79-year-old patient presenting with recurring abdominal pain;Statins;Partial
+1684;32-year-old woman presenting with chronic hypertension;Hydration and monitoring;Failure
+1685;30-year-old patient presenting with ocular irritation;Antihistamines;Partial
+1686;52-year-old patient presenting with flu-like symptoms;Beta blockers;Partial
+1687;60-year-old patient presenting with minor arrhythmia;Antihistamines;Failure
+1688;81-year-old patient presenting with flu-like symptoms;Oral antibiotics;Partial
+1689;47-year-old man presenting with unexplained fatigue;Oral antibiotics;Partial
+1690;87-year-old patient presenting with ocular irritation;Physical therapy;Failure
+1691;42-year-old woman presenting with seasonal allergies;Statins;Success
+1692;54-year-old man presenting with chronic sinus infection;Anticoagulants;Failure
+1693;56-year-old woman presenting with acute bronchitis;Analgesics and rest;Success
+1694;35-year-old woman presenting with seasonal allergies;Anticoagulants;Success
+1695;52-year-old patient presenting with acute bronchitis;Antibiotic injection;Partial
+1696;85-year-old patient presenting with acute bronchitis;Beta blockers;Partial
+1697;41-year-old woman presenting with chronic hypertension;Vitamin supplementation;Failure
+1698;69-year-old man presenting with muscle stiffness;Statins;Success
+1699;29-year-old man presenting with persistent cough and mild fever;Anticoagulants;Partial
+1700;21-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Failure
+1701;74-year-old woman presenting with chronic hypertension;Glucose regulation treatment;Failure
+1702;70-year-old patient presenting with skin rash of unknown origin;Hydration and monitoring;Success
+1703;73-year-old man presenting with recurring abdominal pain;Antibiotic injection;Failure
+1704;64-year-old patient presenting with skin rash of unknown origin;Corticosteroid therapy;Failure
+1705;72-year-old patient presenting with recurring abdominal pain;Hydration and monitoring;Partial
+1706;31-year-old patient presenting with minor arrhythmia;Inhaled bronchodilator;Failure
+1707;32-year-old woman presenting with flu-like symptoms;Hydration and monitoring;Failure
+1708;76-year-old patient presenting with chronic sinus infection;Respiratory physiotherapy;Success
+1709;67-year-old man presenting with chronic hypertension;Beta blockers;Success
+1710;52-year-old patient presenting with seasonal allergies;Hydration and monitoring;Success
+1711;80-year-old woman presenting with chronic hypertension;Vitamin supplementation;Success
+1712;81-year-old man presenting with skin rash of unknown origin;Hydration and monitoring;Failure
+1713;86-year-old woman presenting with moderate asthma;Beta blockers;Failure
+1714;49-year-old man presenting with moderate asthma;Analgesics and rest;Partial
+1715;86-year-old patient presenting with seasonal allergies;Respiratory physiotherapy;Failure
+1716;70-year-old woman presenting with chronic sinus infection;Antibiotic injection;Failure
+1717;77-year-old man presenting with ocular irritation;Vitamin supplementation;Partial
+1718;50-year-old woman presenting with chronic sinus infection;Beta blockers;Failure
+1719;85-year-old woman presenting with mild renal discomfort;Vitamin supplementation;Success
+1720;43-year-old patient presenting with chronic sinus infection;Analgesics and rest;Partial
+1721;58-year-old patient presenting with ocular irritation;Anticoagulants;Partial
+1722;36-year-old man presenting with seasonal allergies;Oral antibiotics;Partial
+1723;80-year-old woman presenting with seasonal allergies;Antihistamines;Success
+1724;85-year-old woman presenting with recurring abdominal pain;Anticoagulants;Partial
+1725;27-year-old patient presenting with muscle stiffness;Anticoagulants;Partial
+1726;55-year-old woman presenting with chronic hypertension;Vitamin supplementation;Failure
+1727;68-year-old woman presenting with skin rash of unknown origin;Statins;Failure
+1728;78-year-old patient presenting with muscle stiffness;Beta blockers;Success
+1729;25-year-old man presenting with persistent cough and mild fever;Hydration and monitoring;Partial
+1730;21-year-old woman presenting with skin rash of unknown origin;Glucose regulation treatment;Success
+1731;41-year-old man presenting with skin rash of unknown origin;Corticosteroid therapy;Success
+1732;78-year-old man presenting with flu-like symptoms;Inhaled bronchodilator;Partial
+1733;27-year-old patient presenting with acute bronchitis;Hydration and monitoring;Success
+1734;80-year-old woman presenting with chronic hypertension;Inhaled bronchodilator;Partial
+1735;60-year-old patient presenting with skin rash of unknown origin;Oral antibiotics;Failure
+1736;42-year-old woman presenting with flu-like symptoms;Beta blockers;Success
+1737;59-year-old woman presenting with acute bronchitis;Statins;Success
+1738;50-year-old man presenting with mild renal discomfort;Hydration and monitoring;Partial
+1739;64-year-old woman presenting with skin rash of unknown origin;Oral antibiotics;Partial
+1740;20-year-old woman presenting with chronic sinus infection;Oral antibiotics;Failure
+1741;48-year-old man presenting with minor arrhythmia;Antihistamines;Failure
+1742;74-year-old man presenting with chronic hypertension;Antibiotic injection;Failure
+1743;57-year-old woman presenting with flu-like symptoms;Respiratory physiotherapy;Failure
+1744;90-year-old woman presenting with chronic sinus infection;Hydration and monitoring;Success
+1745;75-year-old woman presenting with persistent cough and mild fever;Antibiotic injection;Success
+1746;22-year-old man presenting with persistent cough and mild fever;Statins;Failure
+1747;75-year-old woman presenting with mild renal discomfort;Antihistamines;Failure
+1748;43-year-old woman presenting with moderate asthma;Antihistamines;Partial
+1749;65-year-old woman presenting with mild renal discomfort;Vitamin supplementation;Partial
+1750;61-year-old patient presenting with unexplained fatigue;Physical therapy;Success
+1751;32-year-old man presenting with joint inflammation;Inhaled bronchodilator;Success
+1752;45-year-old man presenting with persistent cough and mild fever;Antibiotic injection;Partial
+1753;76-year-old woman presenting with joint inflammation;Antibiotic injection;Failure
+1754;38-year-old patient presenting with recurring abdominal pain;Physical therapy;Success
+1755;83-year-old patient presenting with acute bronchitis;Anticoagulants;Success
+1756;58-year-old man presenting with muscle stiffness;Anti-inflammatory treatment;Success
+1757;89-year-old woman presenting with moderate asthma;Respiratory physiotherapy;Partial
+1758;52-year-old man presenting with unexplained fatigue;Vitamin supplementation;Partial
+1759;38-year-old patient presenting with mild renal discomfort;Anti-inflammatory treatment;Failure
+1760;57-year-old woman presenting with unexplained fatigue;Oral antibiotics;Success
+1761;51-year-old woman presenting with chronic hypertension;Statins;Success
+1762;61-year-old patient presenting with muscle stiffness;Antibiotic injection;Failure
+1763;63-year-old patient presenting with mild renal discomfort;Vitamin supplementation;Failure
+1764;63-year-old woman presenting with acute bronchitis;Corticosteroid therapy;Failure
+1765;53-year-old patient presenting with chronic hypertension;Physical therapy;Success
+1766;46-year-old patient presenting with muscle stiffness;Antibiotic injection;Success
+1767;37-year-old patient presenting with skin rash of unknown origin;Anticoagulants;Success
+1768;57-year-old woman presenting with acute bronchitis;Analgesics and rest;Success
+1769;33-year-old man presenting with recurring abdominal pain;Vitamin supplementation;Failure
+1770;30-year-old patient presenting with skin rash of unknown origin;Statins;Failure
+1771;56-year-old patient presenting with recurring abdominal pain;Anti-inflammatory treatment;Partial
+1772;86-year-old woman presenting with moderate asthma;Oral antibiotics;Success
+1773;90-year-old patient presenting with flu-like symptoms;Analgesics and rest;Partial
+1774;50-year-old woman presenting with flu-like symptoms;Antibiotic injection;Partial
+1775;83-year-old woman presenting with persistent cough and mild fever;Oral antibiotics;Partial
+1776;42-year-old man presenting with mild renal discomfort;Beta blockers;Failure
+1777;81-year-old patient presenting with flu-like symptoms;Hydration and monitoring;Partial
+1778;25-year-old woman presenting with recurring abdominal pain;Physical therapy;Success
+1779;58-year-old man presenting with ocular irritation;Physical therapy;Success
+1780;86-year-old man presenting with acute bronchitis;Antibiotic injection;Success
+1781;61-year-old woman presenting with recurring abdominal pain;Inhaled bronchodilator;Failure
+1782;87-year-old man presenting with skin rash of unknown origin;Antihistamines;Failure
+1783;66-year-old woman presenting with joint inflammation;Inhaled bronchodilator;Success
+1784;65-year-old woman presenting with moderate asthma;Analgesics and rest;Failure
+1785;65-year-old man presenting with acute bronchitis;Corticosteroid therapy;Success
+1786;69-year-old woman presenting with muscle stiffness;Anti-inflammatory treatment;Success
+1787;87-year-old woman presenting with ocular irritation;Anti-inflammatory treatment;Partial
+1788;59-year-old woman presenting with ocular irritation;Anticoagulants;Success
+1789;22-year-old man presenting with skin rash of unknown origin;Corticosteroid therapy;Failure
+1790;84-year-old woman presenting with seasonal allergies;Antihistamines;Success
+1791;90-year-old woman presenting with flu-like symptoms;Antihistamines;Failure
+1792;49-year-old patient presenting with ocular irritation;Respiratory physiotherapy;Partial
+1793;88-year-old patient presenting with recurring abdominal pain;Oral antibiotics;Partial
+1794;50-year-old man presenting with ocular irritation;Inhaled bronchodilator;Failure
+1795;43-year-old patient presenting with mild renal discomfort;Vitamin supplementation;Success
+1796;60-year-old patient presenting with flu-like symptoms;Anticoagulants;Failure
+1797;83-year-old man presenting with skin rash of unknown origin;Hydration and monitoring;Partial
+1798;88-year-old woman presenting with persistent cough and mild fever;Vitamin supplementation;Success
+1799;89-year-old man presenting with unexplained fatigue;Inhaled bronchodilator;Partial
+1800;57-year-old patient presenting with muscle stiffness;Physical therapy;Partial
+1801;26-year-old patient presenting with seasonal allergies;Glucose regulation treatment;Failure
+1802;79-year-old woman presenting with mild renal discomfort;Respiratory physiotherapy;Partial
+1803;39-year-old man presenting with acute bronchitis;Anticoagulants;Success
+1804;62-year-old woman presenting with acute bronchitis;Corticosteroid therapy;Partial
+1805;38-year-old man presenting with mild renal discomfort;Statins;Success
+1806;87-year-old patient presenting with persistent cough and mild fever;Statins;Failure
+1807;20-year-old man presenting with minor arrhythmia;Vitamin supplementation;Success
+1808;48-year-old man presenting with persistent cough and mild fever;Beta blockers;Failure
+1809;45-year-old patient presenting with minor arrhythmia;Respiratory physiotherapy;Success
+1810;26-year-old woman presenting with seasonal allergies;Physical therapy;Failure
+1811;84-year-old patient presenting with minor arrhythmia;Physical therapy;Partial
+1812;81-year-old woman presenting with muscle stiffness;Antibiotic injection;Success
+1813;49-year-old man presenting with chronic hypertension;Inhaled bronchodilator;Partial
+1814;55-year-old patient presenting with muscle stiffness;Inhaled bronchodilator;Success
+1815;39-year-old woman presenting with ocular irritation;Antihistamines;Failure
+1816;73-year-old patient presenting with seasonal allergies;Analgesics and rest;Failure
+1817;80-year-old man presenting with chronic hypertension;Statins;Success
+1818;25-year-old patient presenting with recurring abdominal pain;Oral antibiotics;Failure
+1819;47-year-old man presenting with recurring abdominal pain;Anti-inflammatory treatment;Partial
+1820;83-year-old patient presenting with minor arrhythmia;Respiratory physiotherapy;Success
+1821;31-year-old man presenting with chronic hypertension;Antihistamines;Success
+1822;48-year-old patient presenting with recurring abdominal pain;Anti-inflammatory treatment;Partial
+1823;55-year-old patient presenting with unexplained fatigue;Antibiotic injection;Partial
+1824;30-year-old man presenting with seasonal allergies;Analgesics and rest;Failure
+1825;30-year-old man presenting with muscle stiffness;Analgesics and rest;Success
+1826;31-year-old woman presenting with flu-like symptoms;Oral antibiotics;Partial
+1827;57-year-old woman presenting with joint inflammation;Anticoagulants;Partial
+1828;61-year-old man presenting with mild renal discomfort;Anti-inflammatory treatment;Success
+1829;85-year-old woman presenting with acute bronchitis;Glucose regulation treatment;Failure
+1830;42-year-old woman presenting with muscle stiffness;Respiratory physiotherapy;Success
+1831;43-year-old man presenting with joint inflammation;Vitamin supplementation;Failure
+1832;78-year-old patient presenting with ocular irritation;Corticosteroid therapy;Failure
+1833;65-year-old patient presenting with moderate asthma;Beta blockers;Failure
+1834;68-year-old woman presenting with minor arrhythmia;Antihistamines;Partial
+1835;24-year-old woman presenting with ocular irritation;Inhaled bronchodilator;Partial
+1836;77-year-old woman presenting with recurring abdominal pain;Antibiotic injection;Success
+1837;37-year-old patient presenting with acute bronchitis;Respiratory physiotherapy;Failure
+1838;35-year-old man presenting with chronic sinus infection;Anticoagulants;Partial
+1839;27-year-old woman presenting with seasonal allergies;Glucose regulation treatment;Failure
+1840;86-year-old man presenting with acute bronchitis;Oral antibiotics;Success
+1841;79-year-old patient presenting with joint inflammation;Analgesics and rest;Failure
+1842;70-year-old woman presenting with flu-like symptoms;Antibiotic injection;Success
+1843;50-year-old man presenting with moderate asthma;Beta blockers;Partial
+1844;46-year-old man presenting with unexplained fatigue;Beta blockers;Partial
+1845;39-year-old patient presenting with chronic sinus infection;Antihistamines;Success
+1846;32-year-old woman presenting with unexplained fatigue;Antibiotic injection;Failure
+1847;34-year-old woman presenting with seasonal allergies;Beta blockers;Partial
+1848;53-year-old patient presenting with recurring abdominal pain;Beta blockers;Success
+1849;54-year-old man presenting with skin rash of unknown origin;Anti-inflammatory treatment;Partial
+1850;87-year-old patient presenting with muscle stiffness;Analgesics and rest;Partial
+1851;59-year-old man presenting with skin rash of unknown origin;Anti-inflammatory treatment;Success
+1852;45-year-old woman presenting with chronic sinus infection;Beta blockers;Success
+1853;78-year-old woman presenting with seasonal allergies;Anti-inflammatory treatment;Success
+1854;50-year-old patient presenting with muscle stiffness;Corticosteroid therapy;Partial
+1855;61-year-old man presenting with ocular irritation;Analgesics and rest;Failure
+1856;59-year-old woman presenting with acute bronchitis;Physical therapy;Success
+1857;62-year-old woman presenting with acute bronchitis;Antihistamines;Failure
+1858;38-year-old woman presenting with muscle stiffness;Anti-inflammatory treatment;Partial
+1859;38-year-old woman presenting with mild renal discomfort;Antibiotic injection;Partial
+1860;31-year-old woman presenting with moderate asthma;Anticoagulants;Failure
+1861;61-year-old patient presenting with seasonal allergies;Statins;Success
+1862;28-year-old woman presenting with moderate asthma;Anti-inflammatory treatment;Failure
+1863;24-year-old man presenting with mild renal discomfort;Oral antibiotics;Success
+1864;82-year-old man presenting with chronic sinus infection;Glucose regulation treatment;Partial
+1865;57-year-old patient presenting with muscle stiffness;Hydration and monitoring;Failure
+1866;73-year-old woman presenting with skin rash of unknown origin;Anti-inflammatory treatment;Failure
+1867;69-year-old man presenting with muscle stiffness;Respiratory physiotherapy;Partial
+1868;88-year-old woman presenting with mild renal discomfort;Physical therapy;Partial
+1869;45-year-old man presenting with minor arrhythmia;Beta blockers;Partial
+1870;49-year-old woman presenting with acute bronchitis;Antihistamines;Partial
+1871;56-year-old patient presenting with unexplained fatigue;Inhaled bronchodilator;Failure
+1872;89-year-old patient presenting with recurring abdominal pain;Inhaled bronchodilator;Success
+1873;58-year-old patient presenting with unexplained fatigue;Statins;Partial
+1874;33-year-old man presenting with recurring abdominal pain;Oral antibiotics;Failure
+1875;66-year-old patient presenting with acute bronchitis;Glucose regulation treatment;Success
+1876;47-year-old patient presenting with flu-like symptoms;Vitamin supplementation;Success
+1877;61-year-old man presenting with mild renal discomfort;Statins;Failure
+1878;85-year-old man presenting with unexplained fatigue;Glucose regulation treatment;Success
+1879;73-year-old patient presenting with ocular irritation;Inhaled bronchodilator;Partial
+1880;35-year-old woman presenting with minor arrhythmia;Anticoagulants;Partial
+1881;68-year-old patient presenting with ocular irritation;Corticosteroid therapy;Partial
+1882;77-year-old man presenting with joint inflammation;Respiratory physiotherapy;Partial
+1883;26-year-old patient presenting with moderate asthma;Anti-inflammatory treatment;Failure
+1884;42-year-old patient presenting with chronic hypertension;Analgesics and rest;Partial
+1885;82-year-old man presenting with persistent cough and mild fever;Oral antibiotics;Success
+1886;57-year-old man presenting with moderate asthma;Corticosteroid therapy;Success
+1887;84-year-old man presenting with minor arrhythmia;Beta blockers;Success
+1888;43-year-old woman presenting with skin rash of unknown origin;Beta blockers;Partial
+1889;60-year-old man presenting with minor arrhythmia;Respiratory physiotherapy;Failure
+1890;29-year-old patient presenting with chronic sinus infection;Oral antibiotics;Partial
+1891;22-year-old man presenting with joint inflammation;Analgesics and rest;Partial
+1892;87-year-old woman presenting with ocular irritation;Inhaled bronchodilator;Success
+1893;34-year-old man presenting with mild renal discomfort;Hydration and monitoring;Success
+1894;61-year-old man presenting with chronic hypertension;Glucose regulation treatment;Partial
+1895;84-year-old patient presenting with chronic hypertension;Analgesics and rest;Failure
+1896;27-year-old woman presenting with acute bronchitis;Oral antibiotics;Failure
+1897;22-year-old woman presenting with persistent cough and mild fever;Hydration and monitoring;Success
+1898;21-year-old woman presenting with muscle stiffness;Anticoagulants;Partial
+1899;73-year-old man presenting with acute bronchitis;Glucose regulation treatment;Partial
+1900;36-year-old man presenting with flu-like symptoms;Antibiotic injection;Success
+1901;76-year-old man presenting with joint inflammation;Physical therapy;Failure
+1902;30-year-old man presenting with moderate asthma;Inhaled bronchodilator;Success
+1903;24-year-old woman presenting with persistent cough and mild fever;Antihistamines;Failure
+1904;30-year-old man presenting with seasonal allergies;Vitamin supplementation;Success
+1905;71-year-old man presenting with seasonal allergies;Respiratory physiotherapy;Failure
+1906;62-year-old woman presenting with muscle stiffness;Vitamin supplementation;Failure
+1907;73-year-old man presenting with chronic sinus infection;Glucose regulation treatment;Partial
+1908;60-year-old woman presenting with ocular irritation;Oral antibiotics;Failure
+1909;68-year-old man presenting with chronic sinus infection;Respiratory physiotherapy;Failure
+1910;56-year-old woman presenting with chronic sinus infection;Oral antibiotics;Failure
+1911;27-year-old woman presenting with flu-like symptoms;Hydration and monitoring;Success
+1912;72-year-old woman presenting with muscle stiffness;Hydration and monitoring;Failure
+1913;48-year-old man presenting with muscle stiffness;Respiratory physiotherapy;Success
+1914;71-year-old patient presenting with minor arrhythmia;Vitamin supplementation;Failure
+1915;27-year-old woman presenting with skin rash of unknown origin;Analgesics and rest;Partial
+1916;73-year-old patient presenting with minor arrhythmia;Beta blockers;Partial
+1917;45-year-old patient presenting with muscle stiffness;Corticosteroid therapy;Success
+1918;87-year-old woman presenting with flu-like symptoms;Antihistamines;Success
+1919;34-year-old man presenting with flu-like symptoms;Physical therapy;Success
+1920;72-year-old man presenting with minor arrhythmia;Hydration and monitoring;Success
+1921;30-year-old patient presenting with minor arrhythmia;Respiratory physiotherapy;Partial
+1922;45-year-old woman presenting with flu-like symptoms;Anti-inflammatory treatment;Success
+1923;78-year-old woman presenting with seasonal allergies;Vitamin supplementation;Partial
+1924;37-year-old patient presenting with chronic sinus infection;Analgesics and rest;Partial
+1925;82-year-old man presenting with joint inflammation;Corticosteroid therapy;Failure
+1926;39-year-old man presenting with chronic sinus infection;Anti-inflammatory treatment;Failure
+1927;25-year-old patient presenting with ocular irritation;Vitamin supplementation;Partial
+1928;52-year-old patient presenting with seasonal allergies;Glucose regulation treatment;Failure
+1929;77-year-old patient presenting with chronic hypertension;Respiratory physiotherapy;Success
+1930;37-year-old patient presenting with recurring abdominal pain;Beta blockers;Success
+1931;53-year-old woman presenting with persistent cough and mild fever;Anticoagulants;Partial
+1932;35-year-old man presenting with moderate asthma;Antihistamines;Partial
+1933;45-year-old patient presenting with acute bronchitis;Oral antibiotics;Success
+1934;49-year-old woman presenting with persistent cough and mild fever;Antihistamines;Success
+1935;32-year-old man presenting with skin rash of unknown origin;Respiratory physiotherapy;Failure
+1936;73-year-old man presenting with acute bronchitis;Antibiotic injection;Failure
+1937;27-year-old man presenting with persistent cough and mild fever;Physical therapy;Success
+1938;68-year-old patient presenting with muscle stiffness;Respiratory physiotherapy;Partial
+1939;89-year-old patient presenting with mild renal discomfort;Vitamin supplementation;Failure
+1940;49-year-old patient presenting with moderate asthma;Corticosteroid therapy;Success
+1941;48-year-old patient presenting with flu-like symptoms;Antibiotic injection;Success
+1942;61-year-old man presenting with mild renal discomfort;Respiratory physiotherapy;Failure
+1943;20-year-old man presenting with chronic hypertension;Anti-inflammatory treatment;Failure
+1944;33-year-old man presenting with minor arrhythmia;Antihistamines;Success
+1945;67-year-old man presenting with seasonal allergies;Anticoagulants;Failure
+1946;23-year-old woman presenting with moderate asthma;Anticoagulants;Failure
+1947;55-year-old woman presenting with recurring abdominal pain;Beta blockers;Success
+1948;42-year-old man presenting with moderate asthma;Analgesics and rest;Success
+1949;47-year-old woman presenting with recurring abdominal pain;Respiratory physiotherapy;Success
+1950;34-year-old woman presenting with chronic sinus infection;Oral antibiotics;Failure
+1951;58-year-old patient presenting with recurring abdominal pain;Beta blockers;Failure
+1952;61-year-old patient presenting with muscle stiffness;Antibiotic injection;Partial
+1953;77-year-old patient presenting with ocular irritation;Corticosteroid therapy;Success
+1954;64-year-old woman presenting with joint inflammation;Corticosteroid therapy;Partial
+1955;75-year-old woman presenting with mild renal discomfort;Analgesics and rest;Partial
+1956;60-year-old man presenting with muscle stiffness;Antibiotic injection;Success
+1957;85-year-old patient presenting with moderate asthma;Corticosteroid therapy;Failure
+1958;39-year-old patient presenting with flu-like symptoms;Anti-inflammatory treatment;Success
+1959;82-year-old patient presenting with joint inflammation;Inhaled bronchodilator;Partial
+1960;59-year-old woman presenting with recurring abdominal pain;Antihistamines;Partial
+1961;38-year-old patient presenting with unexplained fatigue;Hydration and monitoring;Partial
+1962;83-year-old patient presenting with joint inflammation;Beta blockers;Failure
+1963;55-year-old patient presenting with skin rash of unknown origin;Beta blockers;Failure
+1964;90-year-old man presenting with ocular irritation;Hydration and monitoring;Partial
+1965;30-year-old woman presenting with acute bronchitis;Anti-inflammatory treatment;Partial
+1966;34-year-old man presenting with ocular irritation;Glucose regulation treatment;Partial
+1967;25-year-old patient presenting with ocular irritation;Hydration and monitoring;Failure
+1968;90-year-old woman presenting with recurring abdominal pain;Glucose regulation treatment;Success
+1969;24-year-old woman presenting with chronic sinus infection;Inhaled bronchodilator;Partial
+1970;70-year-old patient presenting with skin rash of unknown origin;Corticosteroid therapy;Partial
+1971;46-year-old man presenting with muscle stiffness;Oral antibiotics;Failure
+1972;22-year-old woman presenting with minor arrhythmia;Physical therapy;Failure
+1973;61-year-old patient presenting with chronic hypertension;Vitamin supplementation;Success
+1974;39-year-old man presenting with flu-like symptoms;Anticoagulants;Partial
+1975;55-year-old patient presenting with joint inflammation;Anti-inflammatory treatment;Success
+1976;30-year-old woman presenting with flu-like symptoms;Corticosteroid therapy;Partial
+1977;73-year-old man presenting with minor arrhythmia;Glucose regulation treatment;Success
+1978;31-year-old patient presenting with persistent cough and mild fever;Statins;Partial
+1979;67-year-old woman presenting with flu-like symptoms;Statins;Partial
+1980;90-year-old man presenting with muscle stiffness;Glucose regulation treatment;Partial
+1981;51-year-old patient presenting with ocular irritation;Beta blockers;Failure
+1982;51-year-old woman presenting with chronic hypertension;Antihistamines;Failure
+1983;70-year-old woman presenting with chronic sinus infection;Inhaled bronchodilator;Failure
+1984;73-year-old patient presenting with unexplained fatigue;Statins;Failure
+1985;51-year-old man presenting with recurring abdominal pain;Respiratory physiotherapy;Success
+1986;72-year-old woman presenting with flu-like symptoms;Beta blockers;Failure
+1987;68-year-old man presenting with chronic hypertension;Vitamin supplementation;Success
+1988;28-year-old patient presenting with seasonal allergies;Antihistamines;Partial
+1989;57-year-old woman presenting with minor arrhythmia;Antihistamines;Failure
+1990;31-year-old patient presenting with skin rash of unknown origin;Hydration and monitoring;Partial
+1991;26-year-old man presenting with unexplained fatigue;Corticosteroid therapy;Failure
+1992;38-year-old woman presenting with muscle stiffness;Inhaled bronchodilator;Failure
+1993;21-year-old patient presenting with unexplained fatigue;Corticosteroid therapy;Partial
+1994;88-year-old woman presenting with persistent cough and mild fever;Inhaled bronchodilator;Success
+1995;31-year-old man presenting with muscle stiffness;Hydration and monitoring;Failure
+1996;22-year-old woman presenting with unexplained fatigue;Corticosteroid therapy;Success
+1997;49-year-old patient presenting with seasonal allergies;Hydration and monitoring;Success
+1998;21-year-old man presenting with moderate asthma;Anticoagulants;Partial
+1999;67-year-old man presenting with ocular irritation;Physical therapy;Success
+2000;85-year-old patient presenting with chronic hypertension;Anti-inflammatory treatment;Success
+2001;48-year-old woman presenting with recurring abdominal pain;Respiratory physiotherapy;Success
+2002;46-year-old woman presenting with moderate asthma;Statins;Success
+2003;74-year-old woman presenting with recurring abdominal pain;Glucose regulation treatment;Success
+2004;72-year-old patient presenting with flu-like symptoms;Anti-inflammatory treatment;Success
+2005;90-year-old man presenting with skin rash of unknown origin;Analgesics and rest;Failure
+2006;72-year-old patient presenting with skin rash of unknown origin;Oral antibiotics;Failure
+2007;61-year-old woman presenting with skin rash of unknown origin;Statins;Success
+2008;56-year-old man presenting with mild renal discomfort;Oral antibiotics;Failure
+2009;61-year-old woman presenting with joint inflammation;Physical therapy;Success
+2010;44-year-old man presenting with seasonal allergies;Vitamin supplementation;Failure
+2011;80-year-old man presenting with joint inflammation;Antihistamines;Success
+2012;62-year-old patient presenting with mild renal discomfort;Statins;Success
+2013;22-year-old woman presenting with joint inflammation;Inhaled bronchodilator;Partial
+2014;54-year-old woman presenting with acute bronchitis;Glucose regulation treatment;Failure
+2015;40-year-old woman presenting with acute bronchitis;Vitamin supplementation;Partial
+2016;56-year-old man presenting with persistent cough and mild fever;Anti-inflammatory treatment;Success
+2017;59-year-old patient presenting with skin rash of unknown origin;Inhaled bronchodilator;Failure
+2018;62-year-old patient presenting with chronic sinus infection;Antihistamines;Partial
+2019;39-year-old patient presenting with minor arrhythmia;Oral antibiotics;Partial
+2020;55-year-old woman presenting with muscle stiffness;Vitamin supplementation;Success
+2021;29-year-old patient presenting with ocular irritation;Antibiotic injection;Partial
+2022;38-year-old man presenting with ocular irritation;Anti-inflammatory treatment;Success
+2023;54-year-old woman presenting with seasonal allergies;Respiratory physiotherapy;Success
+2024;46-year-old patient presenting with unexplained fatigue;Respiratory physiotherapy;Success
+2025;21-year-old patient presenting with chronic hypertension;Corticosteroid therapy;Partial
+2026;84-year-old patient presenting with flu-like symptoms;Statins;Partial
+2027;22-year-old man presenting with unexplained fatigue;Oral antibiotics;Failure
+2028;62-year-old woman presenting with seasonal allergies;Corticosteroid therapy;Partial
+2029;36-year-old man presenting with muscle stiffness;Anticoagulants;Partial
+2030;26-year-old patient presenting with seasonal allergies;Antihistamines;Partial
+2031;81-year-old patient presenting with unexplained fatigue;Respiratory physiotherapy;Success
+2032;62-year-old woman presenting with joint inflammation;Oral antibiotics;Failure
+2033;83-year-old patient presenting with chronic sinus infection;Antihistamines;Partial
+2034;41-year-old man presenting with skin rash of unknown origin;Anticoagulants;Success
+2035;29-year-old woman presenting with seasonal allergies;Analgesics and rest;Failure
+2036;61-year-old woman presenting with recurring abdominal pain;Respiratory physiotherapy;Success
+2037;33-year-old patient presenting with joint inflammation;Oral antibiotics;Success
+2038;56-year-old woman presenting with unexplained fatigue;Antibiotic injection;Success
+2039;60-year-old woman presenting with ocular irritation;Physical therapy;Partial
+2040;48-year-old patient presenting with mild renal discomfort;Inhaled bronchodilator;Success
+2041;69-year-old woman presenting with joint inflammation;Anti-inflammatory treatment;Partial
+2042;35-year-old woman presenting with seasonal allergies;Antibiotic injection;Partial
+2043;90-year-old man presenting with ocular irritation;Respiratory physiotherapy;Partial
+2044;75-year-old woman presenting with flu-like symptoms;Respiratory physiotherapy;Partial
+2045;56-year-old man presenting with unexplained fatigue;Statins;Failure
+2046;25-year-old man presenting with minor arrhythmia;Corticosteroid therapy;Partial
+2047;76-year-old patient presenting with minor arrhythmia;Oral antibiotics;Partial
+2048;21-year-old woman presenting with persistent cough and mild fever;Physical therapy;Success
+2049;44-year-old man presenting with joint inflammation;Vitamin supplementation;Success
