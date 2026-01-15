@@ -29,14 +29,13 @@ select count(*) from patient_cases;
 SELECT
   np.description AS new_patient_description,
   p.description AS similar_patient_cases,
-  p.traitement_prescrit as patient_case_treatment,
-  p.outcome,
-  ROUND(VECTOR_DISTANCE(p.vector, np.vector, COSINE), 2) AS score
+  ROUND(VECTOR_DISTANCE(p.vector, np.vector, COSINE), 2) AS score,
+  p.traitement_prescrit as patient_case_treatment
 FROM patient_cases p
 CROSS JOIN new_patient np
 WHERE np.id = 1
-ORDER BY VECTOR_DISTANCE(p.vector, np.vector, COSINE) ASC;
---FETCH FIRST 5 ROWS ONLY;
+ORDER BY VECTOR_DISTANCE(p.vector, np.vector, COSINE) ASC
+FETCH FIRST 10 ROWS ONLY;
 
 SELECT p.traitement_prescrit,
        p.outcome,

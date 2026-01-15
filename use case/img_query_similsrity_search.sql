@@ -24,31 +24,32 @@ FROM image_vectors_test;
 select count(*) from diabetic_retinopathy_diagnosis;
 
 
-EXPLAIN PLAN FOR
+--EXPLAIN PLAN FOR
+
+
 with test as (
     select d.image_id, d.embedding, d.image_data, d.image_name
     from diabetic_retinopathy_diagnosis d
-    where d.image_id = 3
+    where d.image_id = 5
 )
---SELECT * FROM test;
 
 SELECT
-  iv.image_id, IV.image_name , t.image_name, iv.image_data,
-  ROUND(VECTOR_DISTANCE(IV.embedding, t.embedding, COSINE), 2) AS score
-FROM diabetic_retinopathy_diagnosis IV
+  drd.image_id, drd.image_name , t.image_name, drd.image_data,
+  ROUND(VECTOR_DISTANCE(drd.embedding, t.embedding, COSINE), 2) AS score
+FROM diabetic_retinopathy_diagnosis drd
 CROSS JOIN test t
---WHERE t.image_id = 3
-ORDER BY VECTOR_DISTANCE(IV.embedding, t.embedding, COSINE) ASC
-FETCH FIRST 5 ROWS ONLY;
+ORDER BY VECTOR_DISTANCE(drd.embedding, t.embedding, COSINE) ASC
+FETCH FIRST 10 ROWS ONLY;
 
-SELECT * FROM TABLE(DBMS_XPLAN.DISPLAY);
-
+--SELECT * FROM TABLE(DBMS_XPLAN.DISPLAY);
 
 
 
 
 
 
+desc diabetic_retinopathy_diagnosis;
+desc patient_cases;
 
 
 
